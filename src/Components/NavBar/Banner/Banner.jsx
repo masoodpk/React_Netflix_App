@@ -12,7 +12,9 @@ function Banner() {
             </div>
             <h1 className='description'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis pariatur dolores adipisci  </h1>
         </div>
-
+<div className='fade_bottom'>
+    
+</div>
 
     </div>
   )
