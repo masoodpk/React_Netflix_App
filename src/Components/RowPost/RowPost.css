@@ -1,6 +1,6 @@
 .row{
     margin-left: 20px;
-    color: #fff;
+    color:rgb(229,9,20);
 
 }
 .posters{
@@ -11,6 +11,7 @@ overflow-y: hidden;
 
 
 }
+
 .posters::-webkit-scrollbar{
     display: none;
 }
