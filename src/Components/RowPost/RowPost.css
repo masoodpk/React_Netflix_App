@@ -22,7 +22,7 @@ overflow-y: hidden;
     margin-right: 10px;
     border-radius: 4%;
     transition: transform 0.3s ease-in-out;
-
+    cursor: pointer;
 }
 .poster:hover{
   
@@ -33,6 +33,7 @@ overflow-y: hidden;
     margin-right: 10px;
     border-radius: 4%;
     transition: transform 0.3s ease-in-out;
+    cursor: pointer;
 }
 .smallPoster:hover{
   
